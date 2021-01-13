@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+.azure/
+.jupyter/
+.local/
+.terraform.d/
+.wget-hsts
+
+
 # Distribution / packaging
 .Python
 build/
